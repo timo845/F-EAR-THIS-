@@ -30,3 +30,5 @@ All proceeds from this album go to A/Rivista Anarchica please write to Editrice 
 
 Thanks to all the people who helped make this dream possible
 Also thanks to Plasticost, Rivolta dell'Odio, The Capers, Funkwagen, Massimo Giacon, Mimi Colucci and Fox for their work not included in the album.
+
+
