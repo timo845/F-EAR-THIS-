@@ -1,5 +1,5 @@
 # F-EAR-THIS-
-F/EAR THIS! unheard music, unwritten words and unseen images inspired by fear
+ # F/EAR THIS! unheard music, unwritten words and unseen images inspired by fear
 
 ### anarchist magazine
 year 17 nr. 146
