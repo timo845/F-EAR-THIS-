@@ -29,6 +29,42 @@ F/EAR THIS! is a double album published by PEACE in 1987, the association of ind
 | **Other organisation(s)** | 	PEACE 
 |[<img src="Documentation/img/coverandrecord.jpg" width="100%">]| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
+### Music & Ideas, curated by Marco Pandin 
+"F / Ear this!" is a double album published by PEACE, the association of independent Italian alternative labels (which includes Blu Bus, Catfood Press, Particolare Music, Rockgarage, Trax, Ut / Comunicazioni and, recently, also Tunnel) in support of "A / Anarchist Magazine ".
+
+The project was born at the beginning of last year: putting together music, words and images built around a common idea, asking for help from friends, musicians, graphic designers and poets scattered everywhere, both in Italy and abroad. All in all a simple and transparent initiative: once the theme was chosen (in this case, "fear"), a word-of-mouth mechanism was set in motion which, despite some complications and the inevitable accidents and delays, worked very well, arriving from here around Europe to the United States. Made some phone calls, sent a few letters and so put the rumor around, the material for "F / Ear this!" it came almost by itself: no contracts, no fees for participation, nor promises difficult to keep. Everyone collaborated freely and spontaneously, an absolutely indispensable condition for being able to "work" cleanly and satisfactorily.
+
+In terms of musical "genres", this collection is obviously quite composite: it ranges from large and evocative atmospheres (the compositions of Giorgio Cantoni and the 2 + 2 = 5, for example) to the minimal chiseling work (the French Look De Bouk and the New Yorkers Hum), from hot and intelligent rock (Franti and the German Body & the Buildings among others) to the more cerebral experimentalism (such as that of Nurse With Wound and ParoksiEksta) to chemical laboratory jazz (Doctor Nerve, Don King and our Detonation).
+We remain however, and this applies to all participants, in an "attitude sector" that sees creativity as a vital and positive fact, an instrument that, through words, sounds and images, tells people, their ideas, dreams and desires .
+
+
+### Tracklist
+
+A1 	–Two Tone 	Sometimes Timid / My Womb 	4:01
+A2 	–Detonazione 	Dead Planet Blues 	4:57
+A3 	–The Blech 	Wehr Kardoon (Recorded Live) 	2:55
+A4 	–Look De Bouk 	Un Ecrin De Fer-Blanc Pour Le Noir Des Tes Cils (Extracts) 	6:04
+A5 	–Politrio 	Bolero IV 	4:14
+A6 	–Embryo (3) 	Aperto 	6:43
+B1 	–History Of Unheard Music 	Lawn Rangers 	4:33
+B2 	–Franti 	Voghera (Recorded Live) 	3:42
+B3 	–LA1919* 	Senza Tregua No. 2 (1986 Remix) 	3:17
+B4 	–Body & The Buildings 	Assume To Be Dreaming 	5:18
+B5 	–Giorgio Cantoni 	Un Anno Nelle Favelas 	3:48
+B6 	–Jane Dolman And Pete Wright 	Fishes In Water 	5:56
+B7 	–2+2=5 	Guang Zhou 	3:28
+C1 	–Orient-Express 	In Articulo Mortis 	3:19
+C2 	–Weimar Gesang 	Light-Tight Place (Hammer Version) 	4:44
+C3 	–Annie Anxiety* 	It Was July... 	2:33
+C4 	–Gregorio R.U.S. Bardini* 	Invocazione Di Giuliano Kremmerz 	3:00
+C5 	–Don King 	Fern Gully (Recorded Live) 	3:48
+C6 	–Doctor Nerve 	Unna (Recorded Live) 	3:02
+C7 	–Nick Didkovsky And Limpe Fuchs 	When Hands Fall 	8:22
+D1 	–Nurse With Wound 	Ship Of The Dead 	7:27
+D2 	–Die Form 	Fear Of My Hands 	3:15
+D3 	–Possession 	De Vermis 	4:44
+D4 	–Thelema 	J. C. S. / A Pagan Ritual 	9:02
+D5 	–Paroksi-Eksta 	Pneuma Ha Ïato 	5:05
 # Research (H1)
 ## Reasearch Questions (H2)
 You can't see fear, can't hold it in your hands. It's experience based, what are the tools that can be used to recreate this context digitally?
@@ -44,8 +80,6 @@ If it is necessary to keep an updated archive of fear samples, what would be thi
 
 <sup>[[1]](#footnote-1)</sup>
 
-### Research Sub-sub-heading (H3)
-The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference. 
 
 # Transcoding
 With the technological resilience, how to preserve audio in the best quality and easiest accessibilty? The original rpm record is one of the most stable audio formats, capable of lasting around 100 years in a controlled environnement. But one copy, stuck in the archive, isn't accessible to a lot of people. The project should reach everyone, as everyone already experienced fear at least once in their life. How to preserve the meaning of the audio, but making it accessible to a broader audience? A website was the ideal thing. The website is generating sound by the users movement, creating a new digital fear inspired experience. On the other hand, samples from the original tracklist is made accessible by using the keyboard.
@@ -55,16 +89,6 @@ With the technological resilience, how to preserve audio in the best quality and
 On the IISG website, no image of the record is available. The first technical transcoding was doing reproduction of the original record, but since it's no longer accessible. A digital remake had to be done. Now it's also printable, if one time someone would like to have a physical copy. Te logo also had to be vectorized, so future transcoding don't destroy the old images.
 [<img src="Documentation/img/logofear.png" width="100%">](#)
 [<img src="Documentation/img/redesigncover.png" width="100%">](#)
-### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-
-
-### Tools 
-Mention the tools that you used or made (if and when relevant). 
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
 
 ## Transcoding Tool 
 ### Description
@@ -76,13 +100,6 @@ The aim of the tool is to create a new digital experience for the user, based on
 ### Methods
 p5.js was mainly used for creating the sound. Quicktime player and basic sound tools were also used. For the visual language, C4D was mainly used.
 
-### Results
-
-
-### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
- 
-
 # Reflection
 Fear is now omnipresent in our way of living. We are always hiding it, trying to escape from it. With this project, it's also about experiencing this feeling in a new way, talking about digital sensations that are more and more present.
 
@@ -91,8 +108,7 @@ An interactive sound website
 
 ### Outcome Links
 www.fearthis.com
-
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
+ 
 
 # Conclusion 
 
