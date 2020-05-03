@@ -1,11 +1,3 @@
-# F-EAR-THIS-
- # F/EAR THIS! unheard music, unwritten words and unseen images inspired by fear
-
-https://www.notion.so/F-EAR-THIS-unheard-music-unwritten-words-and-unseen-images-inspired-by-fear-ad713be0d94f44c9b0a16d3284704c03#73586152ac0047f482a480f10ff62293
-
-https://www.notion.so/F-EAR-THIS-unheard-music-unwritten-words-and-unseen-images-inspired-by-fear-ad713be0d94f44c9b0a16d3284704c03
-
-
 
 ### anarchist magazine
 year 17 nr. 146
@@ -62,7 +54,7 @@ We remain however, and this applies to all participants, in an "attitude sector"
 7. [Bibliography](#Bibliography) 
 
 # Artefact
-You should include a short introduction about your artefact here. Keep in mind: there is space in the metadata (below) to include the 'formal' or 'physical' description. In your [Research](#Research-h1) section (even lower below) you can expand on the context, history and relevant information for the audience. This little introduction here should have a short, overview quality. Just enough to give a clear overview, before getting into details.  
+F/EAR THIS! is a double album published by PEACE, the association of independent Italian alternative labels in support of "A / Anarchist Magazine ". The project was built by friends, musicians, graphic designers and poets scattered everywhere, both in Italy and abroad. All of them were putting together music, words and images built around a common idea, fear.
 
 ## Metadata
 | Tag | Data |  
@@ -76,8 +68,12 @@ You should include a short introduction about your artefact here. Keep in mind: 
 |![enter image description here](https://www.google.com/search?q=fear+the+unheard+music+record&client=firefox-b-d&sxsrf=ALeKk03-oM9E0Dr5N7zYdBSIKd70d1M0NQ:1588508008311&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjXlru81ZfpAhVQ_qQKHSQrBX8Q_AUoAXoECAsQAw&biw=1417&bih=1012#imgrc=fdkkqdGyygNDwM)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 # Research (H1)
+## Reasearch Questions (H2)
+You can't see fear, can't hold it in your hands. It's experience based, what are the tools that can be used to recreate this context digitally?
 
-This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
+Is fear something universal, or does it change depending on the localisation, the epoch? Is there a need to archive different form of fear, from different epochs, from different countries?
+
+If it is necessary to keep an updated archive of fear samples, what would be this samples of contemporary fear be looking like?
 
 ## Research Sub-Heading (H2)
 Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
@@ -86,7 +82,7 @@ Its important to give a clear structure to your Readme. Please use the document 
 The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference. 
 
 # Transcoding
-Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below. 
+With the technological resilience, how to preserve audio in the best quality and easiest accessibilty? The original rpm record is one of the most stable audio formats, capable of lasting around 100 years in a controlled environnement. But one copy, stuck in the archive, isn't accessible to a lot of people. The project should reach everyone, as everyone already experienced fear at least once in their life. How to preserve the meaning of the audio, but making it accessible to a broader audience? A website was the ideal thing. The website is generating sound by the users movement, creating a new digital fear inspired experience. On the other hand, samples from the original tracklist is made accessible by using the keyboard.
 
 ## Transcoding No. 1
 ### Description
