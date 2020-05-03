@@ -47,10 +47,10 @@ The H3 heading is useful to define specific subsections within the H2 section. I
 With the technological resilience, how to preserve audio in the best quality and easiest accessibilty? The original rpm record is one of the most stable audio formats, capable of lasting around 100 years in a controlled environnement. But one copy, stuck in the archive, isn't accessible to a lot of people. The project should reach everyone, as everyone already experienced fear at least once in their life. How to preserve the meaning of the audio, but making it accessible to a broader audience? A website was the ideal thing. The website is generating sound by the users movement, creating a new digital fear inspired experience. On the other hand, samples from the original tracklist is made accessible by using the keyboard.
 
 ## Transcoding No. 1
-### Description
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
+### Cover and Logo redesign
+[<img src="Documentation/img/coverandrecord.png" width="100%">](#)
+On the IISG website, no image of the record is available. The first technical transcoding was doing reproduction of the original record, but since it's no longer accessible. A digital remake had to be done. Now it's also printable, if one time someone would like to have a physical copy. Te logo also had to be vectorized, so future transcoding don't destroy the old images.
+[<img src="Documentation/img/logofear.png" width="100%">](#)
 
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
