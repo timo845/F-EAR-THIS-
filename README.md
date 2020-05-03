@@ -40,7 +40,7 @@ If it is necessary to keep an updated archive of fear samples, what would be thi
 ## Physical record (H2)
 [<img src="Documentation/img/coverandrecord.jpg" width="100%">](#) 
 
-[<video src="Documentation/img/booklet.mp4" width="100%" controls preload>](#) 
+[<video src="Documentation/img/booklet.mp4" width="100%">](#) 
 
 <sup>[[1]](#footnote-1)</sup>
 
