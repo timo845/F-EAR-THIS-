@@ -61,7 +61,7 @@ Description of your methods, documentation of behind-the-scenes processes can go
 With some HTML tags you can do simple styling in markdown, for example:
 
     <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+[<img src="https://gph.is/g/apQz8A6" width="100%">]
 
 Remember to include the url link to jump to the full media, of course! 
 
@@ -74,36 +74,37 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 
 ## Transcoding Tool 
 ### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
+Creating sound digitally, playing with the interactive possibilities of the computer to generate, randomly, or artificially sounds that refer to the language of fear, or personnal emotions. The whole website is the transcoding tool, using a platform as an environnement instead of a transparent piedestral showing objects or a finished work. It is also questionning the process of works, having a musical experience that is for everyone unique.
 
 ### Aims
-Include the main aims or intentions behind making the tool, and what it is used for. 
+The aim of the tool is to create a new digital experience for the user, based on his own movements.  
 
 ### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
+p5.js was mainly used for creating the sound. Quicktime player and basic sound tools were also used. For the visual language, C4D was mainly used.
 
 ### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here. 
+
 
 ### Source Links
 Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
  
 
 # Reflection
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below. 
+Fear is now omnipresent in our way of living. We are always hiding it, trying to escape from it. With this project, it's also about experiencing this feeling in a new way, talking about digital sensations that are more and more present.
 
 # Outcomes
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible. 
+An interactive sound website
 
 ### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored. 
+www.fearthis.com
 
 This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
 
 # Conclusion 
-You might have a nice conclusive observation to share at the end :) 
+
 
 ## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
+
+
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc. 
