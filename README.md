@@ -48,7 +48,7 @@ With the technological resilience, how to preserve audio in the best quality and
 
 ## Transcoding No. 1
 ### Cover and Logo redesign
-[<img src="Documentation/img/coverandrecord.png" width="100%">](#)
+[<img src="Documentation/img/coverandrecord.jpg" width="100%">](#)
 On the IISG website, no image of the record is available. The first technical transcoding was doing reproduction of the original record, but since it's no longer accessible. A digital remake had to be done. Now it's also printable, if one time someone would like to have a physical copy. Te logo also had to be vectorized, so future transcoding don't destroy the old images.
 [<img src="Documentation/img/logofear.png" width="100%">](#)
 
