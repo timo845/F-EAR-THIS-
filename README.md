@@ -37,8 +37,10 @@ Is fear something universal, or does it change depending on the localisation, th
 
 If it is necessary to keep an updated archive of fear samples, what would be this samples of contemporary fear be looking like?
 
-## Research Sub-Heading (H2)
-Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
+## Physical record (H2)
+[<img src="Documentation/img/coverandrecord.jpg" width="100%">](#) 
+
+<sup>[[1]](#footnote-1)</sup>
 
 ### Research Sub-sub-heading (H3)
 The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference. 
@@ -48,10 +50,9 @@ With the technological resilience, how to preserve audio in the best quality and
 
 ## Transcoding No. 1
 ### Cover and Logo redesign
-[<img src="Documentation/img/coverandrecord.jpg" width="100%">](#)
 On the IISG website, no image of the record is available. The first technical transcoding was doing reproduction of the original record, but since it's no longer accessible. A digital remake had to be done. Now it's also printable, if one time someone would like to have a physical copy. Te logo also had to be vectorized, so future transcoding don't destroy the old images.
 [<img src="Documentation/img/logofear.png" width="100%">](#)
-
+[<img src="Documentation/img/redesigncover.png" width="100%">](#)
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
 
