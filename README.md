@@ -37,11 +37,8 @@ Is fear something universal, or does it change depending on the localisation, th
 
 If it is necessary to keep an updated archive of fear samples, what would be this samples of contemporary fear be looking like?
 
-## Physical record & Booklet(H2)
-[<img src="Documentation/img/coverandrecord.jpg" width="100%">](#) 
-
-[<video src="Documentation/img/booklet.mp4" width="100%">](#) 
-    
+## Booklet(H2)
+[<img src="text_booklet(en)(it).rtf" width="100%">](#)
 
 [<img src="https://media.giphy.com/media/fWBYxvP72ehLDNN2VJ/giphy.gif" width="50%">]
 
