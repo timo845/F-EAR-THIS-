@@ -37,10 +37,13 @@ Is fear something universal, or does it change depending on the localisation, th
 
 If it is necessary to keep an updated archive of fear samples, what would be this samples of contemporary fear be looking like?
 
-## Physical record (H2)
+## Physical record & Booklet(H2)
 [<img src="Documentation/img/coverandrecord.jpg" width="100%">](#) 
 
 [<video src="Documentation/img/booklet.mp4" width="100%">](#) 
+    
+
+[<img src="https://media.giphy.com/media/fWBYxvP72ehLDNN2VJ/giphy.gif" width="50%">]
 
 <sup>[[1]](#footnote-1)</sup>
 
@@ -58,11 +61,6 @@ On the IISG website, no image of the record is available. The first technical tr
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
 
-With some HTML tags you can do simple styling in markdown, for example:
-
-[<img src="https://media.giphy.com/media/fWBYxvP72ehLDNN2VJ/giphy.gif" width="50%">]
-
-Remember to include the url link to jump to the full media, of course! 
 
 
 ### Tools 
