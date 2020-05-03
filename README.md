@@ -87,7 +87,7 @@ With the technological resilience, how to preserve audio in the best quality and
 
 ## Transcoding No. 1
 ### Cover and Logo redesign
-On the IISG website, no image of the record is available. The first technical transcoding was doing reproduction of the original record, but since it's no longer accessible. A digital remake had to be done. Now it's also printable, if one time someone would like to have a physical copy. Te logo also had to be vectorized, so future transcoding don't destroy the old images.
+On the IISG website, no image of the record is available. The first technical transcoding was doing reproduction of the original record, but since it's no longer accessible. A digital remake had to be done. Now it's also printable, if one time someone would like to have a physical copy. The logo also had to be vectorized, so future transcoding don't destroy the old images.
 [<img src="Documentation/img/logofear.png" width="100%">](#)
 [<img src="Documentation/img/redesigncover.png" width="100%">](#)
 
@@ -108,7 +108,7 @@ Fear is now omnipresent in our way of living. We are always hiding it, trying to
 An interactive sound website
 
 ### Outcome Links
-www.fearthis.com
+www.fearthis.com (still not online)
  
 
 # Conclusion 
