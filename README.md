@@ -27,7 +27,7 @@ F/EAR THIS! is a double album published by PEACE in 1987, the association of ind
 | **Published* | (Ca. 1987) s.l. :PEACE)
 | **Note** | A benefit for A/Revista Anarchica.
 | **Other organisation(s)** | 	PEACE 
-|![enter image description here](https://www.google.com/search?q=fear+the+unheard+music+record&client=firefox-b-d&sxsrf=ALeKk03-oM9E0Dr5N7zYdBSIKd70d1M0NQ:1588508008311&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjXlru81ZfpAhVQ_qQKHSQrBX8Q_AUoAXoECAsQAw&biw=1417&bih=1012#imgrc=fdkkqdGyygNDwM)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+|[<img src="Documentation/img/coverandrecord.jpg" width="100%">]| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 # Research (H1)
 ## Reasearch Questions (H2)
