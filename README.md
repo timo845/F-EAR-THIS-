@@ -47,7 +47,7 @@ In terms of musical "genres", this collection is obviously quite composite: it r
 We remain however, and this applies to all participants, in an "attitude sector" that sees creativity as a vital and positive fact, an instrument that, through words, sounds and images, tells people, their ideas, dreams and desires .
 
 [<img src="Documentation/img/cover_img.png" width="100%">](#)
-# TITLE HERE Example README.md Outline
+# F/EAR THIS! unheard music, unwritten words and unseen images inspired by fear
 
 ### Table of Contents
 1. [Artefact](#Artefact)
@@ -67,13 +67,13 @@ You should include a short introduction about your artefact here. Keep in mind: 
 ## Metadata
 | Tag | Data |  
 |--|--|
-**IISG Call Number** | [IISG BG K21/985](https://search.iisg.amsterdam/Record/1109411)
-| **Physical Description** | Copper Bust 
-| **Type** | Object
-| **Medium** | Sculpture
-| **Materials** | Copper, Steel
-| **Date** | 1912
-|![enter image description here](https://i.etsystatic.com/17079094/r/il/3ec709/1578951673/il_794xN.1578951673_liqk.jpg)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+**IISG Call Number** | [ IISG BG PG1/137](https://hdl.handle.net/10622/04283EB5-0743-49D1-B1F5-468375E14BCA )
+| **Physical Description** | 33 rpm + 2 vol. text-book. 
+| **Language** | Italian, English
+| **Published* | (Ca. 1987) s.l. :PEACE)
+| **Note** | A benefit for A/Revista Anarchica.
+| **Other organisation(s)** | 	PEACE 
+|![enter image description here](https://www.google.com/search?q=fear+the+unheard+music+record&client=firefox-b-d&sxsrf=ALeKk03-oM9E0Dr5N7zYdBSIKd70d1M0NQ:1588508008311&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjXlru81ZfpAhVQ_qQKHSQrBX8Q_AUoAXoECAsQAw&biw=1417&bih=1012#imgrc=fdkkqdGyygNDwM)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 # Research (H1)
 
