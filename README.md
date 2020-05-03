@@ -61,7 +61,7 @@ Description of your methods, documentation of behind-the-scenes processes can go
 With some HTML tags you can do simple styling in markdown, for example:
 
     <width="50%">
-[<img src="https://gph.is/g/apQz8A6" width="100%">]
+[<img src="https://media.giphy.com/media/fWBYxvP72ehLDNN2VJ/giphy.gif" width="100%">]
 
 Remember to include the url link to jump to the full media, of course! 
 
