@@ -68,8 +68,193 @@ We remain however, and this applies to all participants, in an "attitude sector"
 |D4|Thelema |	J. C. S. / A Pagan Ritual 	|9:02|https://www.youtube.com/watch?v=zb2Z-pMe4ug|
 |D5|Paroksi-Eksta| 	Pneuma Ha Ïato |5:05|?|
 
-### Booklet
-[<img src="text_booklet(en)(it).rtf" width="100%">](#)
+### BookletIt’s difficult to tell something about « fear ». Also because every time it is different. The fear to be not able of speaking, the fear to be not able of acting, to be alone, to know not enough; to have no ways out but only fixed courses and the fear to be not able of breathing the real air, to be far away from the changes of your own people; the fear to be always out of place and to be forced to stay in places where you wouldn’t like to stay. But always with a common denominator: it’s immediately fear. Imposed by the external conditions, swallowed every day with the same constancy of the passing minutes. In the close of a jail or inside the stomach of a mine, in your bed at night or, sometimes, on the stage; a morning when you can’t get up to go working or one night watching the river. But nothing can really get in our eyes remaining just a word, a sign unfleshed by the abuse of its meaning: is the depth of the « simple » living that takes away the dust, that changes the colors, that presents a breath and so the fear can be touched, sniffed, waited, circumscribed, faced somehow. VOGHERA (a naked tune: the time/tempo of the drum - the passing time and the subjective time; a voice; a far and extraneous sound of a saxophone) is a jail for women: here some of them had decided some time ago to choose maternity: aseptic words that mean very precise lives, years, places, feelings. Voghera seems an empty circle. If the mass media tell something about it, it is just for saying: »Look ou! Think about what you’re doing if you don’t want to end up in this place » or « do a quiet life and so Voguera will not exist ». Precisely an empty circle, that everyone can fill up like he wants: with words, images, convictions, ideological propositions, but it’s a circle. The Indians of America divided the world and the life in circles: their houses had a circular shape too. The beginning and the ending unite. Where: a point at random but everything unites. And, where it just seems to be a point of ending, of death, here thirst of life comes up, the push to transmit it, the proposal to the world of a new life, the struggle for a better world, the beginning of other circles. ACQUA DI LUNA (« moon water ») is what, according to a popular saying from Borneo, springs at last at the light of the moon after being hidden for a long time.
+
+
+« …he is born on the third of November, first day of snow of the year. »
+« …the hours of the evening, of the night, like the other things…waiting…to live a present where eternally something fails, the most important things, to wait for a future that is a tangle, ‘couse, we already know, it will be the same of this present which we don’t give up to live. The hours of the new day with the same times ».
+« …the clock says the hours. But which hours?…On, back…on, back… You miss the voices, you miss them to say the time, to fill up this place…monstrous silence ».
+« …There is almost the fear to tell us everything, we speak about what we are living, but something fails…It’s hard to tell the limits, easy to understand these walls too heavy, hard to insert the overload of the mind. »
+« I try to sleep, but the sleep doesn’t come; who knows if the others are still here. »
+« …I break the time, I break this clock useless by now, this time said by someone else, of days, of hours, minutes. »
+« …The want of music…scentes and colors… without anything to remember. »
+
+(From: « Letters from Voghera-Messina-Mantova-Le Vallette di Torino.
+A documentation about the health inside the female jail in Italy »)
+
+Voghera.
+
+Two stones fall on the iron and invisible door
+Two hours born by chance dead every day
+Glasses that make a labored breathing
+The round wardrobe touches the sky/ceiling
+The day and the night opened by the walls and the skin
+With their noises
+The love and the thin hairs of the children
+Red iron in your nails
+And break the pencil, stubborn
+She understands the time,
+You’re outside and inside it
+And the voice gets tired faster then
+You don’t know when
+You don’t know when
+Yesterday also you were here outside
+Today you are all and you
+Two hours born by chance dead all days
+Run now, run now, run now,
+The bed doesn’t speak
+Leave it, let it dream
+Run now.
+
+
+He pantomimed putting a gun to the head of an imaginary dog on the ground and pulled the trigger several times- the next day the dead bodies were dragged away without mention and now when the soldiers patrol the beach they are less of a nuisance.
+
+Zippolite is also known as « Playa de Muerte » or « Beach of Death » or « Beach of the dead » as in another time Zapoteca Indians utilized the strong current there to carry away their dead who they would leave on the beach- some distance from the shore lie two rock protuberances jutting from the water the first and smaller greedy with some form of vegetation the second raping the waves a large crag of unbleached stone sitting in the ocean like a floating skull-
+On the beach a sign is posted with this warning: «  corriente peligroso » dangerous wave the tide is rumored to have taken 9 lives in some duration of the more recent past.
+
+In articulo Mortis
+L’homme: « ELLE DORT? EST-CE QU’ELLE DORT? »
+La femme: « ELLE VIENT JUSTE DE S’ENDORMIR »
+L’enfant. « DEPUIS SEPT ANS JE DORS. ILS VONT FINIR PAR M’OUBLIER ET JE ME REVEILLERAIS DANS MA TOMBE. »
+La femme: « LE TEMPS… »
+L’homme: « QUEL TEMPS? LE TIENS, LE MIEN OU LE SIEN? »
+
+La femme: « SOITA, SOITA, REVEILLE-TOI SOITA, REVEILLE-TOI! »
+L’enfant: « NON, NON, NON…..
+Pascale JAKUBOWSKI
+
+
+Pneuma ha ïato
+Se agranare d’intrisa o arsa asma, come il troncamento torce in arcam prossimo pietrame (dove imbestialisce un incrinato sfregio), è vibrare l’intriso e digrigna sparente gravido bi forcamento, mattare-abradere la clavicola in morso tellurico (etimo) è incidere.
+Questo crudo otre infesta l’osso, asperge la finitima consono Anza e midollare ed estrude ed erode l’idra per fonetico lui go acceca, recide, macera, questo gonfio contorno, scempio, metastasi.
+Dirimare corde quasi mascellare demone, il fine vibrato; ora si massacra (è il plesso finale) ed è saccheggiare la rossa lamia.
+Così lo squarciare greve la trofica permeazione impronta l’i gne radiale, l’opaco scuotere in dimorfismo o ramo s’immola (il referente serico è scorticato), si rivela il labbro atro ce, estirpa tale sordido ciclo genuflesso, ed è epurare in densità, Sgranare.
+Paroksi-eksta
+
+
+IF YOU ARE THE SON OF GOD
+THEN HOW CAN YOU NOT KNOW
+THAT YOU WILL BE ABUSED
+THE WAY YOUR TEACHING WILL BE USED
+
+Death’s Door
+Perfunct outshone scoffed in the mist,
+Irregular in the shining night.
+Glimmers appear in my eye, immigrant spirit lecher occupies -
+Designate or bust.
+Stuffy antiseptic mouthwash mood
+Hot breath breaches back of a boy’s neck.
+A scratch across the shimmer,
+Gouged across the best bit,
+Standing too close to the page.
+Misted grave inscriptions rarely any use,
+But when they work, somehow sliding into sleep
+Relinquished to absurdity, the dream haze is real.
+
+Leprous breathy moist on me,
+Back aches for sight, my spine wants eyes
+Danger sensor kidney spot,
+Can’t rest even on wall solid upright shield.
+In the student castle, everything’s the one to have,
+The have-nots yawn at the turrets,
+From the heights it looks like a wail.
+Return of the knight errant,
+Nodding out the smiles of perfect.
+Awaken to late at a fireside, the night receding,
+Reflective idyll second chance,
+Reflex mirror shines malignant.
+Trapped a bit of waking light.
+
+Sleep lingers on, same cold stone underfoot,
+Moon spliced by branches rustling,
+Aching clouds stretch.
+All the edges sharp, the gulls shriek,
+Too dreamy for the daylight.
+The coldest moon lingers, caustic bent flame
+The funeral men stand up inside, to go,
+Mean morsels in their mouths, dripping.
+Cocked hats grin for their heads,
+The mouths hold the captive teeth firm.
+Shadow staggers and my figure follows-
+They breathe on the flame, doused by spit, falls to the ground,
+Groans and bleeds, soaked up by soil.
+Crumbled bells click dead,
+Creaking gate swinging on a single hinge.
+Up a parody hillside limp cock pisses
+Over my shaky hand, not even warm.
+I see my Schreck shadow leave,
+Fluttering without feeling.
+
+(C) Stephen E. Thrower 1985
+
+
+
+
+
+
+« I used to think religion was all bunch of hocus-pocus, but these patients have convinced me that the Bible is true: There is both a Heaven and a Hell, » Dr. Rawlings said.
+Dr. Rawlings described one harrowing episode after a patient collapsed in his office:
+« His heart stopped, and I immediately began resuscitation. I started external heart massage as a nurse initiated mouth to mouth breathing. It took several minutes to bring him around, and during that time he was clinically dead.
+« The patient began ‘coming to.’. But whenever I would reach for instruments or otherwise interrupt my compression of his chest, the patient would again lose consciousness… and die once more.
+He had a terrified look worse than the expression seen in death!
+« He said, ‘Don’t you understand? I am in Hell. Each time you quit I go back to Hell! Don’t let me go back to Hell!
+Other patients described Hell as what appeared to be an « underground » tunnel leading into a cave filled with awful eery sounds. There was an odor of decay… and some of the workers were only half human.
+One patient told of descending through a tunnel lined by fire in its lower half, opening into a huge fiery world of horror.
+
+« THE FEARFUL AND UNBELIEVING ».
+My gums bleed, it’s early morning, the bed smells funny. The curtains are tangled with the bedclothes. My eyes are too dry and the carpet needs hoovering, and has done for days. There’s a plastic bag full of mainly paper rubbish, mixed with screwed up toilet roll, teetering near the door.
+The sky is dead. Almost too listless to remain above the dull grooves. The ghost of the sky is draped like an invisible shroud over the buildings and railway sidings outside. St. Paul’s is bland in the distance.
+Tiny slivers of dream picture make pinpricks in my memory. The dreams must have been poor- nothing sticks. There’s a strong wind outside, and too much dirt in the air to risk going out. My eyes would be ground to pulp. Standing naked in the shaving mirror- my ribs show, my sides stick out and I’m too pale.
+
+MY FANTASTIC PHRASES BELY ME
+
+« Each time he regained heartbeat and respiration the sometime ritual percussionist and free-form ambient scratch video director screamed « I am in Hell! ».
+
+
+
+
+
+
+If there were words to halt the rush,
+Or rather, slow it to the heart’s pace,
+Would I speak in honesty,
+The quieter drawings of love cannot be tapped for their energies,
+In bleakness
+The life at my fingertips
+Is my only link,
+The wind in the trees is not so light.
+Sharing offers salvation from the grey and pitiless shapes,
+But to touch is in, and of itself,
+We realize but cannot contain-
+Fishes in the water
+
+VERBOTEN
+
+OUR LADY OF THE BATTLE FIELDS
+
+I’m tired of the glib sentiments and trite words that drip thick and sickly like cough syrup upon the cold tiled floor/small talking little bullets to pass the time of day and nite and nite and lifetime/truly are social pleasantries the extent of our shared understanding. It all rings so hollow in the cold haze of morning. 
+I’m tired of the shit. Of the deadpan resignation of the red rimmed commuter eye of the early morning stony faced death grip of the pinstriped passer-by and the grey suited Lynch mob/ the gardeners of treblinka and card sharks of Saigon/
+FORGIVE THEM FATHER FOR THEY KNOW WHAT THEY ARE DOING BUT HAVE NEVER BOTHERED TO STOP AND ASK THEMSELVES WHY THEY ARE DOING IT.
+I’m tired and insulted by the flat dimensionless women with waxed siliconed flesh and and razor blades lip/cunts. These smiling flesh heaps and beckoning whores. Which crush sensitivity in their plastic palms. I’m tired of this trickery this glossy seduction, this glistening rape. I’m tired of having fuckups inflicted on my life. These shit piles which muddy the path of true growth and realization. I’m tired of being tired. I’m tired of the word I. I’m tired tired of the word we which pushes me further into my aloneness. I’m tired of the limitations of description. I’m tired and horrified of the quick and arbitrary slaughter of the bomb. The piercing selectiveness of the bullet. The cold impassionate blade of the knife the fleshy cruelty of the fist, and the slow murky dirge of self annihilation. Of mind and body. I’m disgusted by the mute acceptance of these atrocities. I’m tired of the passer-by and the man on the street, the violent, silent majority the weak pulse of inhumanity. Silence is a signature on the petition of war. I’m tired of the endless separations, judgements based on genitalia. The stupidity of combating oppression with more oppression. I’m tired by the saccharine sonatas and sugary soliloquies of love. Which by their very existence make a mockery out of it. Where there is hatred envy and fear how could there be love. I’m tired of seeing every space created filled with crap. I’m tired of having my passion and pain designed into fashion and fum by people who are as shallow as the ink they defile the newsprint and drawing board with. I’m tired of the drossy liberalism of those just doing their job. The matrons in the madhouse, the sonderkommandos in the gas chambers, the butchers, the teacher, the vivisectionist,the ball breakers, and the preachers. just because you're wearing rubber gloves doesn't mean your hands aren’t bloodstained. I’m tired of the spectators and the spectacle. The passive transistor and violent persistor. This separation from reality. I’m tired of seeing people so far removed from this earth, from themselves, from each other, that they need the tinge of blood and adrenalin of death in order to feel they’re alive. I’m tired of again and again watching people take every easy option, and selling themselves all down the line for the false security of being husband or wife, married in their mutual fear, in love with their grief. The arrogant procreation and cheap bids at immortality, creating an extension of their fuck ups to confirm their desolation. A baby’s cry from the barreness of the soul, creating chaos in the wake of their marginal bliss, living kamikazi like lives and dancing to their lemming like deaths. I’m tired of the doom’s day celebrities the sparkling thrill seekers, blood sports from behind the camera lens, wide-angled assault, the flash cube fuck. I’m tired of witnessing children’s eyes turn cold and accusing babies ripped crazed-faced from the womb, tattoed in patent leather and baptized in the watery fear of god. I’m tired of the sex slaughter, love murder distortions. The life fillers cathode ray, technicolour diversions. I’m tired of these sacred cows, the animal sacrifices, these dirty icons, these heaps of rotting trinkets. Endless insults to buy, fight, die, and fuck for, whore, kill, and maim for. Our pounds of flesh go cheap these days. I’m tired. Sometimes I look into your eyes and see a spark, a quick glimmering of recognition beneath the endless layers of abuse, layers of pain, layers of lies, layers of contortions, and layers of fear, that dull the retina and lower the eyelid in shame, I see a rememberence of life, of love, of honesty. I know it’s there, to be able to look at each other in the eyes is what I want. I expect nothing less.
+
+Annie Anxiets Guevara, 1983.
+
+
+Voi siete loro, ecoo il problema. Io sono voi, cioé loro. In orizzontale, noi siamo catodo. Linee di color grigio che sfumano attraverso lo schermo di un televisore. Burrasca a forza nove. Sudando abbondantemente per questa speranza, traspirando. Sprofondato sul suo trono, grigio e nero, le sue vesti bianche, sbarre incrociate ferme sulla sua faccia, urla di omicidi sanguinosi.
+
+Eli eli llama sabathani, noioso come i fiocchi d’avena e io qui, adesso, a asanguinare. Alza le sue mani ferite, profonde stimmate color cremisi, valli pulsanti che anneriscono le sue vesti di crine. Padre pio che giunge dal vivo a voi da pietralcina. Entra in ogni casa del paese dal televisore. Applaude furiosamente, con le sue mani ferite, schizzando gocce di sangue tutt’attorno, sui pizzi candidi delle bambine che lo circondano.
+Schizza sangue, macchiando per l’eternità le tonache rosa della prima comunione. Vino del popolo ed amore del mio sangue. Egli canta istericamente, bocca spalancata in un ghigno carico di denti, la barba ispida che luccica al sole mentre lui corre in cerca di riparo nelle catacombe.
+
+Un pugno irrispettoso improvvisamente si scaglia contro lo schermo di vetro, e lo tocca. Le dita immerse profondamente nei circuiti. Tocca con le dita i componenti. Si sporgono col loro peso al di là delle transenne, aggrappati con le mani alle sbarre dipinte di nero. Le facce di cera l’una sull’altra, accatastate, occhi sbarrati. Aspettano soltanto, si sporgono, si aggrappano. Aspettano e rimangono a guardare, annoiati, guardano.
+
+Notte calda, un sabato. L’aria è satura di tensione. Aspettare i colori. Rosso inferno. Bianco slavato. Azzurro fiamma. Nulla. Molte ore trascorrono nella monotonia. Finalmente un uomo siede sul selciato accavallando le gambe. Non un lobotomizzato vestito di zafferano, solo un uomo con gli abiti da pastore. La folla, vigile alle transenne, sudava come fanno i maiali all’ abbeveratoio. Ce l’avete fatta? sta arrivando, ora.
+
+Scommettiamo che questo stupido bambino poggera la pelle del suo stupido sedere sul fuoco? Non sarebbe forse questa la fine? Quasi quasi gli do un fiammifero, solo per vedere l’effetto del fuoco. L’uomo siede composto ed immobile al centro della strada. Sarebbe meglio, dico sarebbe meglio se lui impugnasse un enormo colellaccio e con un lungo taglio si aprisse dalla giugulare fino al suo pazzo fianco, e nel momento in cui giungesse il treno della morte lo si scaraventasse a terra e lo si chiudesse in un sacco di plastica. Proprio come vernice di hamburger, carne.
+
+Risate nel sacco. Ce l’hai fatta, faccia di stupido? A parte questo, egli siede sereno. Distaccato ed insensibile chiuso nella sua solitudine. Siete tutti degli idioti.
+
+Penso che lo stupido se ne restera li seduto fino a quando arrivera un grande furgone del pane e lo schiaccera, e il suono sara proprio come quello di un pompelmo, e le  luci si accenderanno una dopo l’altra.
+
 
 [<img src="https://media.giphy.com/media/fWBYxvP72ehLDNN2VJ/giphy.gif" width="50%">]
 
