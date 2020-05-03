@@ -38,6 +38,7 @@ In terms of musical "genres", this collection is obviously quite composite: it r
 We remain however, and this applies to all participants, in an "attitude sector" that sees creativity as a vital and positive fact, an instrument that, through words, sounds and images, tells people, their ideas, dreams and desires .
 
 
+
 ### Tracklist
 | Side | Band | Track | Time | Link
 |--|--|--|--|--|
@@ -66,21 +67,20 @@ We remain however, and this applies to all participants, in an "attitude sector"
 |D3|Possession |	De Vermis 	|4:44|?|
 |D4|Thelema |	J. C. S. / A Pagan Ritual 	|9:02|https://www.youtube.com/watch?v=zb2Z-pMe4ug|
 |D5|Paroksi-Eksta| 	Pneuma Ha Ïato |5:05|?|
-# Research (H1)
-## Reasearch Questions (H2)
-You can't see fear, can't hold it in your hands. It's experience based, what are the tools that can be used to recreate this context digitally?
 
-Is fear something universal, or does it change depending on the localisation, the epoch? Is there a need to archive different form of fear, from different epochs, from different countries?
-
-If it is necessary to keep an updated archive of fear samples, what would be this samples of contemporary fear be looking like?
-
-## Booklet(H2)
+### Booklet
 [<img src="text_booklet(en)(it).rtf" width="100%">](#)
 
 [<img src="https://media.giphy.com/media/fWBYxvP72ehLDNN2VJ/giphy.gif" width="50%">]
 
 <sup>[[1]](#footnote-1)</sup>
+# Research 
+## Reasearch Questions 
+You can't see fear, can't hold it in your hands. It's experience based, what are the tools that can be used to recreate this context digitally?
 
+Is fear something universal, or does it change depending on the localisation, the epoch? Is there a need to archive different form of fear, from different epochs, from different countries?
+
+If it is necessary to keep an updated archive of fear samples, what would be this samples of contemporary fear be looking like?
 
 # Transcoding
 With the technological resilience, how to preserve audio in the best quality and easiest accessibilty? The original rpm record is one of the most stable audio formats, capable of lasting around 100 years in a controlled environnement. But one copy, stuck in the archive, isn't accessible to a lot of people. The project should reach everyone, as everyone already experienced fear at least once in their life. How to preserve the meaning of the audio, but making it accessible to a broader audience? A website was the ideal thing. The website is generating sound by the users movement, creating a new digital fear inspired experience. On the other hand, samples from the original tracklist is made accessible by using the keyboard.
