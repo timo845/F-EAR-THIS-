@@ -39,32 +39,33 @@ We remain however, and this applies to all participants, in an "attitude sector"
 
 
 ### Tracklist
-
-A1 	–Two Tone 	Sometimes Timid / My Womb 	4:01
-A2 	–Detonazione 	Dead Planet Blues 	4:57
-A3 	–The Blech 	Wehr Kardoon (Recorded Live) 	2:55
-A4 	–Look De Bouk 	Un Ecrin De Fer-Blanc Pour Le Noir Des Tes Cils (Extracts) 	6:04
-A5 	–Politrio 	Bolero IV 	4:14
-A6 	–Embryo (3) 	Aperto 	6:43
-B1 	–History Of Unheard Music 	Lawn Rangers 	4:33
-B2 	–Franti 	Voghera (Recorded Live) 	3:42
-B3 	–LA1919* 	Senza Tregua No. 2 (1986 Remix) 	3:17
-B4 	–Body & The Buildings 	Assume To Be Dreaming 	5:18
-B5 	–Giorgio Cantoni 	Un Anno Nelle Favelas 	3:48
-B6 	–Jane Dolman And Pete Wright 	Fishes In Water 	5:56
-B7 	–2+2=5 	Guang Zhou 	3:28
-C1 	–Orient-Express 	In Articulo Mortis 	3:19
-C2 	–Weimar Gesang 	Light-Tight Place (Hammer Version) 	4:44
-C3 	–Annie Anxiety* 	It Was July... 	2:33
-C4 	–Gregorio R.U.S. Bardini* 	Invocazione Di Giuliano Kremmerz 	3:00
-C5 	–Don King 	Fern Gully (Recorded Live) 	3:48
-C6 	–Doctor Nerve 	Unna (Recorded Live) 	3:02
-C7 	–Nick Didkovsky And Limpe Fuchs 	When Hands Fall 	8:22
-D1 	–Nurse With Wound 	Ship Of The Dead 	7:27
-D2 	–Die Form 	Fear Of My Hands 	3:15
-D3 	–Possession 	De Vermis 	4:44
-D4 	–Thelema 	J. C. S. / A Pagan Ritual 	9:02
-D5 	–Paroksi-Eksta 	Pneuma Ha Ïato 	5:05
+| Side | Band | Track | Time | Link
+|--|--|--|--|--|
+|A1| 	–Two Tone |	Sometimes Timid / My Womb 	4:01
+|A2| 	–Detonazione |	Dead Planet Blues 	4:57
+|A3|	–The Blech| 	Wehr Kardoon (Recorded Live) 	2:55
+|A4|	–Look De Bouk| 	Un Ecrin De Fer-Blanc Pour Le Noir Des Tes Cils (Extracts) 	6:04
+|A5|	–Politrio |	Bolero IV 	4:14
+|A6| 	–Embryo (3)| 	Aperto 	6:43
+|B1| 	–History Of Unheard Music| 	Lawn Rangers 	4:33
+|B2|	–Franti |	Voghera (Recorded Live) 	3:42
+|B3|	–LA1919* |	Senza Tregua No. 2 (1986 Remix) 	3:17
+|B4| 	–Body & The Buildings |	Assume To Be Dreaming 	5:18
+|B5| 	–Giorgio Cantoni |	Un Anno Nelle Favelas 	3:48
+|B6|	–Jane Dolman And Pete Wright |	Fishes In Water 	5:56
+|B7| 	–2+2=5|	Guang Zhou 	3:28
+|C1| 	–Orient-Express |	In Articulo Mortis 	3:19
+|C2|	–Weimar Gesang |	Light-Tight Place (Hammer Version) 	4:44
+|C3|	–Annie Anxiety* |	It Was July... 	2:33
+|C4|	–Gregorio R.U.S. Bardini* |	Invocazione Di Giuliano Kremmerz 	3:00
+|C5|	–Don King |	Fern Gully (Recorded Live) 	3:48
+|C6| 	–Doctor Nerve |	Unna (Recorded Live) 	3:02
+|C7| 	–Nick Didkovsky And Limpe Fuchs| 	When Hands Fall 	8:22
+|D1| 	–Nurse With Wound |	Ship Of The Dead 	7:27
+|D2| 	–Die Form |	Fear Of My Hands 	3:15
+|D3| 	–Possession |	De Vermis 	4:44
+|D4| 	–Thelema |	J. C. S. / A Pagan Ritual 	9:02
+|D5|	–Paroksi-Eksta| 	Pneuma Ha Ïato 	5:05
 # Research (H1)
 ## Reasearch Questions (H2)
 You can't see fear, can't hold it in your hands. It's experience based, what are the tools that can be used to recreate this context digitally?
