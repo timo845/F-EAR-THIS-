@@ -24,10 +24,10 @@ F/EAR THIS! is a double album published by PEACE in 1987, the association of ind
 **IISG Call Number** | [ IISG BG PG1/137](https://hdl.handle.net/10622/04283EB5-0743-49D1-B1F5-468375E14BCA )
 | **Physical Description** | 33 rpm + 2 vol. text-book. 
 | **Language** | Italian, English
-| **Published* | (Ca. 1987) s.l. :PEACE)
+| **Published** | (Ca. 1987) s.l. :PEACE)
 | **Note** | A benefit for A/Revista Anarchica.
 | **Other organisation(s)** | 	PEACE 
-|[<img src="Documentation/img/coverandrecord.jpg" width="100%">]| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+|<img src="Documentation/img/coverandrecord.jpg" width="100%">| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 ### Music & Ideas, curated by Marco Pandin 
 "F / Ear this!" is a double album published by PEACE, the association of independent Italian alternative labels (which includes Blu Bus, Catfood Press, Particolare Music, Rockgarage, Trax, Ut / Comunicazioni and, recently, also Tunnel) in support of "A / Anarchist Magazine ".
