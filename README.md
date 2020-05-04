@@ -257,9 +257,8 @@ Risate nel sacco. Ce l’hai fatta, faccia di stupido? A parte questo, egli sied
 Penso che lo stupido se ne restera li seduto fino a quando arrivera un grande furgone del pane e lo schiaccera, e il suono sara proprio come quello di un pompelmo, e le  luci si accenderanno una dopo l’altra.
 
 
-[<img src="https://media.giphy.com/media/fWBYxvP72ehLDNN2VJ/giphy.gif" width="50%">]
+<img src="https://media.giphy.com/media/fWBYxvP72ehLDNN2VJ/giphy.gif" width="75%">
 
-<sup>[[1]](#footnote-1)</sup>
 # Research 
 ## Reasearch Questions 
 You can't see fear, can't hold it in your hands. It's experience based, what are the tools that can be used to recreate this context digitally?
