@@ -75,7 +75,7 @@ It’s difficult to tell something about « fear ». Also because every time 
 
 
 # Research 
-## Reasearch Questions 
+## Research Questions 
 You can't see fear, can't hold it in your hands. It's experience based, what are the tools that can be used to recreate this context digitally?
 
 Is fear something universal, or does it change depending on the localisation, the epoch? Is there a need to archive different form of fear, from different epochs, from different countries?
@@ -94,6 +94,7 @@ On the IISG website, no image of the record is available. The first technical tr
 ## Transcoding Tool 
 ### Description
 Creating sound digitally, playing with the interactive possibilities of the computer to generate, randomly, or artificially sounds that refer to the language of fear, or personnal emotions. The whole website is the transcoding tool, using a platform as an environnement instead of a transparent piedestral showing objects or a finished work. It is also questionning the process of works, having a musical experience that is for everyone unique.
+How can sound be created artificially? Music has always evolved with human errors, interpretations. Creating sound by coding seems to be achieving the dream of perfection, or is it maybe a nightmare?
 
 ### Aims
 The aim of the tool is to create a new digital experience for the user, based on his own movements.  
