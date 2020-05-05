@@ -1,5 +1,3 @@
-
-
 [<img src="Documentation/img/cover_img.png" width="100%">](#)
 # F/EAR THIS! unheard music, unwritten words and unseen images inspired by fear
 
@@ -15,7 +13,7 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
-# Artefact
+## Artefact
 F/EAR THIS! is a double album published by PEACE in 1987, the association of independent Italian alternative labels in support of "A / Anarchist Magazine ". The project was built by friends, musicians, graphic designers and poets scattered everywhere, both in Italy and abroad. All of them were putting together music, words and images built around a common idea, fear.
 
 ## Metadata
@@ -74,15 +72,15 @@ It’s difficult to tell something about « fear ». Also because every time 
 [<img src="Documentation/img/bookletcomplete.png" width="100%">](#)
 
 
-# Research 
-## Research Questions 
+## Research 
+### Research Questions 
 You can't see fear, can't hold it in your hands. It's experience based, what are the tools that can be used to recreate this context digitally?
 
 Is fear something universal, or does it change depending on the localisation, the epoch? Is there a need to archive different form of fear, from different epochs, from different countries?
 
 If it is necessary to keep an updated archive of fear samples, what would be this samples of contemporary fear be looking like?
 
-# Transcoding
+## Transcoding
 With the technological resilience, how to preserve audio in the best quality and easiest accessibilty? The original rpm record is one of the most stable audio formats, capable of lasting around 100 years in a controlled environnement. But one copy, stuck in the archive, isn't accessible to a lot of people. The project should reach everyone, as everyone already experienced fear at least once in their life. How to preserve the meaning of the audio, but making it accessible to a broader audience? A website was the ideal thing. The website is generating sound by the users movement, creating a new digital fear inspired experience, blurring the distinction between consumer and producer, audience and author.On the other hand, samples from the original tracklist is made accessible by using the keyboard.
 
 ## Transcoding No. 1
@@ -102,17 +100,17 @@ The aim of the tool is to create a new digital experience for the user, based on
 ### Methods
 p5.js was mainly used for creating the sound. Quicktime player and basic sound tools were also used. For the visual language, C4D was mainly used.
 
-# Reflection
+## Reflection
 Fear is now omnipresent in our way of living. We are always hiding it, trying to escape from it. With this project, it's also about experiencing this feeling in a new way, talking about digital sensations that are more and more present.
 
-# Outcomes
+## Outcomes
 An interactive sound website
 
 ### Outcome Links
 https://timo845.github.io. (still not online)
  
 
-# Conclusion 
+## Conclusion 
 
 
 ## Bibliography
