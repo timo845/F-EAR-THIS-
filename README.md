@@ -99,8 +99,14 @@ The aim of the tool is to create a new digital experience for the user, based on
 
 ### Methods
 p5.js was mainly used for creating the sound. Quicktime player and basic sound tools were also used. For the visual language, C4D was mainly used.
+
 [Creating sound with Javascript](https://marcgg.com/blog/2016/11/01/javascript-audio/)
+
 [MIDI online synthetizer](https://midi.city/)
+
+[Omni, Musical scales](https://femurdesign.com/omni/)
+
+[Bobby Club Loop builder](https://boopy.club/)
 
 ## Reflection
 Fear is now omnipresent in our way of living. We are always hiding it, trying to escape from it. With this project, it's also about experiencing this feeling in a new way, talking about digital sensations that are more and more present.
