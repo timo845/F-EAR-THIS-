@@ -116,3 +116,7 @@ https://timo845.github.io. (still not online)
 ## Bibliography
 
 [Hito Steyerl, In defense of the poor image, 2009](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
+
+[Website of A Rivista Anarchica](http://www.arivista.org/index.php?nr=146&pag=146_06.html)
+
+[discogs review of LP record](https://www.discogs.com/fr/Various-FEar-This-A-Collection-Of-Unheard-Music-Unwritten-Words-And-Unseen-Images-Inspired-By-Fear/release/668412)
