@@ -115,6 +115,4 @@ https://timo845.github.io. (still not online)
 
 ## Bibliography
 
-
-
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc. 
+[Hito Steyerl, In defense of the poor image, 2009](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/)
