@@ -2,16 +2,16 @@
 # F/EAR THIS! unheard music, unwritten words and unseen images inspired by fear
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography) 
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research-h1)
+3. [Transcoding](#transcoding)
+    1. [Transcoding No. 1](#transcoding-no-1)
+    2. [Transcoding Tool](#transcoding-tool)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography) 
 
 ## Artefact
 F/EAR THIS! is a double album published by PEACE in 1987, the association of independent Italian alternative labels in support of "A / Anarchist Magazine ". The project was built by friends, musicians, graphic designers and poets scattered everywhere, both in Italy and abroad. All of them were putting together music, words and images built around a common idea, fear.
