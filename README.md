@@ -87,7 +87,7 @@ With the technological resilience, how to preserve audio in the best quality and
 ### Cover and Logo redesign
 On the IISG website, no image of the record is available. The first technical transcoding was doing reproduction of the original record, but since it's no longer accessible. A digital remake had to be done. Now it's also printable, if one time someone would like to have a physical copy. The logo also had to be vectorized, so future transcoding don't destroy the old images.
 [<img src="https://raw.githubusercontent.com/timo845/fear/master/Documentation/img/logofear.png" width="100%">](#)
-[<img src="https://raw.githubusercontent.com/timo845/fear/master/Documentation/img/redesigncover.png" width="100%">](#)
+[<img src="https://raw.githubusercontent.com/timo845/fear/master/Documentation/img/redesigncover.jpg" width="100%">](#)
 
 ## Transcoding Tool 
 ### Description
