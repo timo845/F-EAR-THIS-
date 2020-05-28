@@ -113,6 +113,7 @@ Fear is now omnipresent in our way of living. We are always hiding it, trying to
 
 ## Outcomes
 An interactive sound website
+[<img src="https://raw.githubusercontent.com/timo845/fear/master/Documentation/img/repro1.gif" width="60%">](#)
 
 ### Outcome Links
 https://timo845.github.io. 
