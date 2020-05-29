@@ -125,7 +125,7 @@ An interactive sound website
 ### Outcome Links
 https://timo845.github.io. 
 
-And in addition, one recording of the audio output of the website, saved on soundcloud.
+And in addition, one recording of the audio output of the website.
 https://soundcloud.com/user-373084460/fear-this
 
 ## Conclusion 
