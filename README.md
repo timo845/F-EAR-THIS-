@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/timo845/fear/master/Documentation/img/cover_img.png" width="100%">](#)
+[<img src="https://raw.githubusercontent.com/timo845/fear/master/Documentation/img/coverimg.png" width="100%">](#)
 # F/EAR THIS! unheard music, unwritten words and unseen images inspired by fear
 
 ### Table of Contents
