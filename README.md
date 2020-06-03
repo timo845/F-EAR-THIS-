@@ -123,7 +123,7 @@ An interactive sound website
 [<img src="https://raw.githubusercontent.com/timo845/fear/master/Documentation/img/repro4.gif" width="40%">]()
 
 ### Outcome Links
-https://timo845.github.io
+<https://timo845.github.io>
 
 And in addition, one recording of the audio output of the website.
 https://soundcloud.com/user-373084460/fear-this
